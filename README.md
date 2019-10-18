@@ -20,6 +20,6 @@
 // .npmrc
 // ------
 registry=https://npm.pkg.github.com/drivetopurchase
-// or
+// or for multiple orgs
 @drivetopurchase:registry=https://npm.pkg.github.com
 ```
